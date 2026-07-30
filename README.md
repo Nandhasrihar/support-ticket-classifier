@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎫 Support Ticket Classifier
 
 A production-ready machine learning system for automatically classifying support tickets into predefined categories (Billing, Technical, HR, General) using **TF-IDF vectorization** and **Multinomial Naive Bayes classification**.
@@ -598,3 +599,6 @@ Suggestions for improvement? Open an issue or submit a PR!
 ---
 
 **Built with ❤️ for AI/ML testing and validation.**
+=======
+# support-ticket-classifier
+>>>>>>> 683925db7bcc7afb9ae405144833f9f603b16f15
