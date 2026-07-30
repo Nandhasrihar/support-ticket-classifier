@@ -1,0 +1,55 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Models & data (large files)
+# Uncomment to exclude from git (use git-lfs instead)
+# models/*.pkl
+# data/tickets.csv
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.streamlit/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

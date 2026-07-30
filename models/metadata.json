@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-07-30T16:38:42.955021",
+  "model_type": "MultinomialNB",
+  "vectorizer_type": "TfidfVectorizer",
+  "accuracy": 1.0,
+  "config": {
+    "test_size": 0.2,
+    "random_state": 42,
+    "tfidf_max_features": 1000,
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "confidence_threshold": 0.6
+  },
+  "classes": [
+    "Billing",
+    "General",
+    "HR",
+    "Technical"
+  ]
+}

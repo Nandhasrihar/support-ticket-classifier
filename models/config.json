@@ -1,0 +1,10 @@
+{
+  "test_size": 0.2,
+  "random_state": 42,
+  "tfidf_max_features": 1000,
+  "tfidf_ngram_range": [
+    1,
+    2
+  ],
+  "confidence_threshold": 0.6
+}
